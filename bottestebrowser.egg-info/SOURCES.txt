@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+bottestebrowser/__init__.py
+bottestebrowser/__main__.py
+bottestebrowser/bot.py
+bottestebrowser.egg-info/PKG-INFO
+bottestebrowser.egg-info/SOURCES.txt
+bottestebrowser.egg-info/dependency_links.txt
+bottestebrowser.egg-info/requires.txt
+bottestebrowser.egg-info/top_level.txt
+bottestebrowser/resources/start.png
